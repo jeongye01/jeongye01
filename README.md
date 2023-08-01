@@ -5,10 +5,5 @@
 
 
 
-# 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-b07219.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongye01&layout=compact)](https://github.com/jeongye01/github-readme-stats)
 

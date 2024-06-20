@@ -17,39 +17,52 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </div>
 
-💻 I’m currently learning ...  
+## 🚀 Tech Stack 🚀
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+💻 Language
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Rust-008B8B?style=for-the-badge&logo=rust&logoColor=darkorange)
+![java](https://img.shields.io/badge/java-E34F26?style=flat&logo=java&logoColor=white)
+
+💻 Front-End
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+💻 Back-End
+
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
-![](https://img.shields.io/badge/AWS_S3-324253?style=for-the-badge&logo=amazons3&logoColor=green)
-![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
-![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=amazoneks&logoColor=oragne)
-![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
+
+
+
 
 📶 DataBase  
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 🐋 DevOps  
 
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
+![](https://img.shields.io/badge/AWS_S3-324253?style=for-the-badge&logo=amazons3&logoColor=green)
+![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
+![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=amazoneks&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
 
 🔧 Tools
 
-![](https://img.shields.io/badge/Git-FEFEFE?style=for-the-badge&logo=git&logoColor=tomato)
-![](https://img.shields.io/badge/Confluence-FEFEFE?style=for-the-badge&logo=confluence&logoColor=royalblue)
-![](https://img.shields.io/badge/Jira-FEFEFE?style=for-the-badge&logo=jira&logoColor=royalblue)
-
+![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 
 
